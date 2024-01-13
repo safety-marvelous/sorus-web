@@ -26,7 +26,11 @@ const Hero = () => {
     <div className="spline-hero">
         <Spline scene="https://prod.spline.design/i-ZPyXm639R-jhIc/scene.splinecode" />
     </div>
-    <div className="another-text"><h1>Scroll down</h1></div>
+    <div className="another-text">
+        <h2><a href="https://telegram.org/" target="_blank">Contract Address : sol124fsa134</a></h2>
+        <h1>Scroll down</h1>
+        
+    </div>
     
 </div>
 </>
