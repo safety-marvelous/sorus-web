@@ -1,0 +1,55 @@
+/* .bento-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    height: 100vh;
+    border-radius: 10px;
+}
+
+
+.bento-grid a,
+.bento-grid img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: 1px solid #000;
+}
+
+@media (max-width: 600px) {
+    .bento-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+} */
+
+/* DIFFERENT STYLING */
+
+
+
+/* .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 150px;
+    gap: 4px;
+}
+
+.grid-item {
+    border: 2px solid rgba(0, 0, 0, 0.596);
+    background-color: #F5F5F5;
+    padding: 4px;
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+}
+
+.grid-item:hover {
+    transform: scale(1.05); 
+}
+
+.col-span-2 {
+    grid-column: span 2;
+} */
+
+
+/* ANOTHER DIFFERENT STYLE */
